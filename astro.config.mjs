@@ -7,7 +7,7 @@ export default defineConfig({
   site: 'https://www.fossify.org',
   i18n: {
     defaultLocale: "en",
-    locales: ["en", 'ar'],
+    locales: ["en", 'ar', "zh"],
     fallback: {
       ar: "en"
     },
