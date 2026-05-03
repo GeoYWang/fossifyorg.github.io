@@ -1,0 +1,50 @@
+{
+    "header": {
+        "apps": "应用",
+        "blog": "博客",
+        "team": "团队",
+        "about": "关于"
+    },
+    "hero": {
+        "title": "我们是 Fossify",
+        "subtitle": "Fossify 应用套件的创新者",
+        "donate": "捐赠"
+    },
+    "profile": {
+        "title": "关于我们",
+        "subtitle": "我们的理念",
+        "about": {
+            "description": "一组简单、开源、无广告且无不必要权限的应用程序，具有可自定义的颜色。@SimpleMobileTools 的分支。"
+        },
+        "vision": {
+            "title": "我们的愿景",
+            "text": "设想一个移动应用程序在不侵犯我们隐私的情况下增强我们生活的世界。这就是 Fossify 努力实现的目标。我们设想一个繁荣的社区，人们共同努力创建免费和开源的应用程序，这些应用程序可以回归"
+        },
+        "mission": {
+            "title": "我们的使命",
+            "text": "为所有人构建尊重隐私的移动应用程序。Fossify 延续了 @SimpleMobileTools 的遗产，打造了无广告、易于使用的开源工具。我们为个人和社区提供尊重其隐私并简化事物的技术。"
+        }
+    },
+    "donation": {
+        "title": "支持 Fossify ❤️",
+        "description": "如果您想支持 Fossify 的开发，请考虑使用以下任何选项进行捐赠。"
+    },
+    "products": {
+        "title": "我们的产品",
+        "description": "Fossify 应用程序是一套由社区驱动、开源、无广告的移动应用程序。作为不再维护的 @SimpleMobileTools 的分支，我们在这里延续其遗产，为每个人带来简单和私密的技术。",
+        "hint": "滑动查看更多",
+        "label": "阅读更多",
+        "close": "关闭"
+    },
+    "contributors": {
+        "title": "主要贡献者",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim, expedita!"
+    },
+    "donors": {
+        "title": "捐助者",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim, expedita!"
+    },
+    "footer": {
+        "copyright": "版权所有 © 2024，保留所有权利"
+    }
+}
